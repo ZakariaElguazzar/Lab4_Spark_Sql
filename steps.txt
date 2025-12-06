@@ -1,0 +1,9 @@
+1.Creer le projet java maven Lab4_SaprkSql et aussi le dataset.
+2.Ajouter config et docker-compose.yml.
+3.Creer le fichier java.
+4.Ajouter les dependances dans pom.xml.
+5.creer le fichier jar.
+6.lancer docker compose up -d.
+6.Ajouter le jar au spark master.
+7. ajouter le fichier csv au hdfs.
+8.lancer le programme spark
