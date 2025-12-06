@@ -16,7 +16,7 @@ services:
       # Persister les journaux HDFS
       - ./volumes/namenode/logs:/opt/hadoop/logs
       # Volume pour vos fichiers locaux
-      - ./data:/data
+      - ./volumes/data:/data
     networks:
       - spark-network
 
