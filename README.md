@@ -4,12 +4,12 @@
 
 **Rapport de Travaux Pratiques**
 
-**Étudiant:** [Votre Nom]  
-**Groupe:** [Votre Groupe]  
+**Étudiant:** [Zakaria El Guazzar]  
+**Groupe:** [SDIA]  
 **Date:** 2025-12-07
 
 **Encadré par:** M. Abdelmajid BOUSSELHAM  
-**Institution:** [Votre École/Université]
+**Institution:** [Enset]
 
 ---
 
@@ -515,6 +515,6 @@ docker exec namenode hdfs dfs -ls /
 ---
 
 *Rédigé et exécuté par:*  
-[Votre Nom]  
+Zakaria El Guazzar  
 Étudiant en Big Data  
 2025-12-07
